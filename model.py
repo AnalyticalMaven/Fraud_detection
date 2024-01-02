@@ -5,3 +5,6 @@ def model():
 
 def model2():
     print(" Hii ")
+
+
+prin("Model 1 is working best")
